@@ -1,3 +1,11 @@
+'''
+ * Programmers Stock Price
+ * programmer: yooj
+ * using : pycharm & python 3.88
+ * Date: 21.06.14
+ * Site: https://programmers.co.kr/learn/courses/30/lessons/42584
+'''
+
 from collections import deque
 
 def solution(prices):
