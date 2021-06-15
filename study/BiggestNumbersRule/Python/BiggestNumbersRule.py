@@ -1,5 +1,5 @@
 '''
- * Programmers Stock Price
+ * Programmers BiggestNumbersRule
  * programmer: yooj
  * using : pycharm & python 3.88
  * Date: 21.06.14

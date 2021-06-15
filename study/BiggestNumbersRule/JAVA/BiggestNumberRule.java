@@ -1,5 +1,5 @@
 /*
- * STCT
+ * STCT :: BiggestNumberRule
  * programmer: yooj
  * Date: 21.06.12
  * using: intellij & jdk 16.0.2
