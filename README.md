@@ -1,2 +1,7 @@
-# myStudy
-Myst is My study about computer language, computer Science and so on.
+# Algorithm Study and DataStructure Study
+
+## my plan is at leat two problem one day
+
+- Python Algorithm PS
+- JAVA Algorithm PS
+- Study( DataStudcur, Algorithm and so on)
