@@ -371,5 +371,5 @@ public class FunctionCombination {
 
 
 
-전체결과 ![funcInterface01](/Users/yujeongmin/Desktop/github/algorithm and simple study/study/java8/record/funcInterface01.png)
+전체결과 ![funcInterface01](./funcInterface01.png)
 
