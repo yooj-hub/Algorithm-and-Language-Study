@@ -1,8 +1,29 @@
-# Algorithm Study and DataStructure Study
+# Algorithm Study and Language Study
 
-## my plan is at leat two problem one day
+## Algorithm Study
 
-- Python Algorithm PS
-- JAVA Algorithm PS
-- C++ Algorithm PS
-- Study( DataStudcur, Algorithm and so on)
+- ### Language: Python, Java, C++
+
+- ### PS and Alogorithm
+
+  - BOJ    [Baekjoon](Baekjoon) 
+  - Programmers  [Programmers](Programmers) 
+  - Algospot   [Algospot](Algospot) 
+  - Algorithm.  [Algospot](Algospot) 
+
+
+
+
+
+## Language Study
+
+- ### JAVA
+
+  -  [Queue](study/JavaBasic/Queue) 
+  -  [Stack](study/JavaDataStructure/Stack) 
+  -  [funcInterface.md](study/java8/record/funcInterface.md) 
+
+
+
+
+
